@@ -13,7 +13,23 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.3",
     "nodemon": "^3.1.10",
     "ts-node": "^10.9.2"
-  }
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/jsonwebtoken": "^9.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitpatel-wstf/casspr-be.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amitpatel-wstf/casspr-be/issues"
+  },
+  "homepage": "https://github.com/amitpatel-wstf/casspr-be#readme"
 }
